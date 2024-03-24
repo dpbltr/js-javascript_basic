@@ -23,40 +23,55 @@
 // console.log(stringNumber);
 // console.log( typeof stringNumber);
 
-// +++++++++++++++++++++++++++++++++++++++++operation+++++++++++++++++++++++++++++++++++++++++++++++
+// +++++++++++++++++++++++++++++++++++++++++ operation +++++++++++++++++++++++++++++++++++++++++++++++
 
-let value = 3
-let negValue = -3
-console.log(negValue);
+// let value = 3
+// let negValue = -3
+// console.log(negValue);
 
-console.log(2+2);
-console.log(2-2);
-console.log(2*2);
-console.log(2**2);
-console.log(2/3);
-console.log(2%3);
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2/3);
+// console.log(2%3);
 
-let str1 = "Deepak"
-let str2 = " Kumar"
-let str3 = str1 + str2
-console.log(str3);
+// let str1 = "Deepak"
+// let str2 = " Kumar"
+// let str3 = str1 + str2
+// console.log(str3);
 
-console.log("1" + 2);  //yadi string first hai to sabhi ko string me strit kiya jayega
-console.log(1 + "2"); // agar string last me hai to jo pahle jo hai conversion hao vo ho jayega
-console.log("1" + 2 + 2);
-console.log(1 + 2 + "2");
-console.log((3 + 4) * 4 % 3);
+// console.log("1" + 2);  //yadi string first hai to sabhi ko string me strit kiya jayega
+// console.log(1 + "2"); // agar string last me hai to jo pahle jo hai conversion hao vo ho jayega
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+// console.log((3 + 4) * 4 % 3);
 
-console.log(true);
-console.log(+"");
+// console.log(true);
+// console.log(+"");
 
-let num1, num2, num3
-num1 = num2 =num3 = 2 + 2
+// let num1, num2, num3
+// num1 = num2 =num3 = 2 + 2
 
-let gemeCounter  = 100
-gemeCounter++;
-console.log(gemeCounter);
+// let gemeCounter  = 100
+// gemeCounter++;
+// console.log(gemeCounter);
 
+// =============================== comparision =======================
+
+// console.log("2" > 1);
+// console.log("02" > 1);
+
+// console.log(null > 0);
+// console.log(null == 0);
+// console.log(null >= 0);
+
+// console.log(undefined == 0);
+// console.log(undefined > 0);
+// console.log(undefined < 0);
+
+//  ===  kya krta hai ki na ki aap ki sirf aap ki value ko check karta hai value ki stricklly check karta hai data type ko check karta hai 
+console.log("2" === 2);
 
 
 
